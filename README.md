@@ -1,2 +1,0 @@
-# myAutomationProject
-www.saucedemo.com
